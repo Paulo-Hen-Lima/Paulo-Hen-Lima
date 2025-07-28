@@ -1,8 +1,21 @@
 ## Oii! Eu sou o Paulo Henrique 👨‍💻
 
-Atualmente trabalho com **organização digital de documentos e automação de contratos**, e estou estudando **Desenvolvimento de Sistemas**, com foco em lógica de programação, back-end e banco de dados.
 
-Sou apaixonado por tecnologia e estou sempre buscando evoluir. Adoro estudar programação e colocar em prática meus projetos!
+🌱 Atualmente estou trabalhando como **freelancer na área de tecnologia** e estudando **Desenvolvimento de Sistemas**.
+
+🚀 Construção: Já desenvolvi alguns projetos com Arduino e, no momento, estou trabalhando na construção de um **titulador automático**.
+
+✨ Curiosidade: Sou apaixonado por tecnologia e estou sempre buscando evoluir. Adoro estudar programação e colocar em prática meus projetos!
+##
+
+<div align="center">
+  <a href="https://github.com/Paulo-Hen-Lima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Hen-Lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1E90FF&text_color=FFFFFF&icon_color=00BFFF&bg_color=0D1117&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Hen-Lima&layout=compact&langs_count=7&theme=dark&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/>
+  </a>
+</div>
+
+##
 
 ### Linguagens
 <div style="display: inline_block"><br>
@@ -35,14 +48,6 @@ Sou apaixonado por tecnologia e estou sempre buscando evoluir. Adoro estudar pro
 
 ##
 
-<div align="center">
-  <a href="https://github.com/Paulo-Hen-Lima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Hen-Lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=1E90FF&text_color=FFFFFF&icon_color=00BFFF&bg_color=0D1117&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Hen-Lima&layout=compact&langs_count=7&theme=dark&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/>
-  </a>
-</div>
-
-##
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulo-Hen-Lima&theme=github_dark" />
