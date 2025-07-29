@@ -27,7 +27,7 @@
 </div>
 
 ### Frameworks / Bibliotecas
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br> 
   <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
