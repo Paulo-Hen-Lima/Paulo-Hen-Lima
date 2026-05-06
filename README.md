@@ -6,23 +6,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00C4FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Freelancer+Web;Criando+soluções+modernas;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00C4FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Freelancer;Sempre+aprendendo+algo+novo" />
 
 </div>
 
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Computação** na **UFMS** e técnico em **Desenvolvimento de Sistemas** pelo **IFMS**. Atuo como **freelancer** desenvolvendo soluções web completas — do back-end ao front-end — com foco em qualidade, performance e boas práticas.
+Estudante de Engenharia de Computação e Desenvolvedor Full Stack Freelancer, unindo conhecimento técnico e soluções práticas.
 
-- 🎓 Engenharia de Computação — **UFMS** (em andamento)
-- 🏫 Técnico em Desenvolvimento de Sistemas — **IFMS**
-- 💼 Freelancer em desenvolvimento web
-- 📍 Campo Grande, MS — Brasil
-- 🌱 Atualmente aprofundando conhecimentos em **Node.js** e **Vue.js**
-- 📫 Aberto a novas oportunidades e colaborações
-
----
+- Engenharia de Computação — **UFMS** (em andamento)
+- Técnico em Desenvolvimento de Sistemas — **IFMS**
+- Aberto a novas oportunidades e colaborações
+- Freelancer
 
 ## Stack Tecnológica
 
@@ -46,9 +42,13 @@ Sou estudante de **Engenharia de Computação** na **UFMS** e técnico em **Dese
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
 
 ## Estatísticas GitHub
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Hen-Lima&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+</div>
 
 ## Atividade
 
@@ -56,7 +56,7 @@ Sou estudante de **Engenharia de Computação** na **UFMS** e técnico em **Dese
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Hen-Lima&theme=tokyo-night&border_radius=10&hide_border=false" alt="Contribution Graph"/>
 </div>
 
----
+
 
 ## Contato & Redes
 
@@ -64,11 +64,10 @@ Sou estudante de **Engenharia de Computação** na **UFMS** e técnico em **Dese
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-de-assis-lima-b494b4327/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrip747@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulo-Hen-Lima)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo__henrique__l/)
 
 </div>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Paulo-Hen-Lima&style=for-the-badge&color=2c5364&label=Visualizações+do+Perfil" alt="Profile views"/>
