@@ -56,14 +56,6 @@ Sou estudante de **Engenharia de Computação** na **UFMS** e técnico em **Dese
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paulo-Hen-Lima&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## Atividade
 
 <div align="center">
