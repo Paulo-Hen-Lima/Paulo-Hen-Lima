@@ -1,10 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Paulo%20Henrique&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Computação%20%7C%20Desenvolvedor%20Freelancer&descAlignY=58&descSize=16&descColor=a0c4d8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Paulo%20Henrique&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Engenharia%20de%20Computação%20|%20Desenvolvedor%20Freelancer&descAlignY=55&descSize=16&descColor=a0c4d8" />
 
 </div>
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00C4FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Freelancer+Web;Criando+soluções+modernas;Sempre+aprendendo+algo+novo" />
+
+</div>
+
 
 ## Sobre mim
 
@@ -44,17 +49,6 @@ Sou estudante de **Engenharia de Computação** na **UFMS** e técnico em **Dese
 ---
 
 ## Estatísticas GitHub
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Hen-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Hen-Lima&layout=compact&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Hen-Lima&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
 
 ## Atividade
 
